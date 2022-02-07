@@ -1,0 +1,19 @@
+{
+  "name": "imacte-assets",
+  "version": "1.0.0",
+  "description": "static assets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imacte/inpm.git"
+  },
+  "author": "imacyhs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imacte/inpm/issues"
+  },
+  "homepage": "https://github.com/imacte/inpm#readme"
+}
